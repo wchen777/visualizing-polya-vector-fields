@@ -29,7 +29,7 @@ class Visualizing3(Scene):
         self.wait(1.5)
 
         self.play(Write(t2, run_time=3))
-        self.wait(1.5)
+        self.wait(6)
         self.play(Write(t3))
         self.wait(3.5)
 

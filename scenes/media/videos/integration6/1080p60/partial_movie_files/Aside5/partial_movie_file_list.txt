@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/450974505_1366262993_3412110617.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_862516335_491977296.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_1822243428_4183896911.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_2114504515_3443253919.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_3451163802_1253576110.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_2114504515_1285618809.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_3892974499_2635552759.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_111405103_2437720780.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_4014519322_2694582788.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_936217788_1989672386.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/integration6/1080p60/partial_movie_files/Aside5/2788726626_2729126825_160134095.mp4'
