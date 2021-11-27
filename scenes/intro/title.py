@@ -1,5 +1,4 @@
 from manim import *
-import numpy as np
 
 
 class Title(Scene):
@@ -25,3 +24,4 @@ class Title(Scene):
         self.play(Write(complex))
         self.wait(1)
         self.play(Write(authors))
+        self.wait(2)

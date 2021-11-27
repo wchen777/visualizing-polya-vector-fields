@@ -1,6 +1,7 @@
 from manim import *
 import math
 
+
 class Intro1(GraphScene):
 
     def __init__(self):
@@ -56,7 +57,7 @@ class Intro1(GraphScene):
         self.wait(1.5)
 
         curvedArrow = CurvedArrow(start_point=np.array([-2, -1.5, 0]),
-                                  end_point=np.array([2, -1.5, 0]), color=BLUE_B, angle=-PI/2)
+                                  end_point=np.array([2, -1.5, 0]), color=BLUE_B, angle=-PI / 2)
 
         curvedArrow.scale(0.5)
         label = Tex(r"$e^z$", color=RED_B)
@@ -72,12 +73,12 @@ class Intro1(GraphScene):
         self.setup_axes(animate=True)
 
         # graph_right = self.get_graph(ParametricFunction(lambda t: [math.sin(t), math.cos(t), 0], ) color=RED_B)
-        graph_right1 = self.get_graph(lambda x: math.sqrt(1 - x**2), x_min=-1, x_max=1, color=RED_B)
-        graph_right2 = self.get_graph(lambda x: -math.sqrt(1 - x**2), x_min=1, x_max=-1, color=RED_B)
+        graph_right1 = self.get_graph(lambda x: math.sqrt(1 - x ** 2), x_min=-1, x_max=1, color=RED_B)
+        graph_right2 = self.get_graph(lambda x: -math.sqrt(1 - x ** 2), x_min=1, x_max=-1, color=RED_B)
 
         # self.play(Create(ParametricFunction(lambda t: [math.sin(t), math.cos(t), 0], t_min=0, t_max=2*PI)),
         # run_time=1)
         self.play(Create(graph_right1), run_time=1)
         self.play(Create(graph_right2), run_time=1)
 
-
+        self.wait(5)

@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/450974505_2042474062_2609311926.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_2114504515_242102145.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_265536709_2041666073.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_978118316_3204677559.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_427676590_2160467623.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_3591036622_2320591842.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_4219159626_1433521960.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_855427371_606249652.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_948554161_833543525.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/aside5/1080p60/partial_movie_files/Aside5/2788726626_1880792923_1624626089.mp4'
