@@ -28,7 +28,6 @@ class Polya7(Scene):
         t3.scale(0.75)
 
 
-
         self.play(Write(t1, run_time=2.5))
 
         self.wait(5)
