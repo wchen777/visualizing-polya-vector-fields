@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/450974505_1568207629_1723705679.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/2788726626_235586383_3416173390.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/2788726626_3674975549_1430373404.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/2788726626_2210574814_461757946.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/2788726626_747147036_2392384484.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/2788726626_3166386329_1975772420.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/38604104_1824250614_3461163319.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/38604104_4043601532_703932945.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/38604104_1482197689_3011019752.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex2/1080p60/partial_movie_files/ExPolya2/624774619_3166386329_3874173541.mp4'

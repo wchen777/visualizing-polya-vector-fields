@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex1/1080p60/partial_movie_files/VecField1/450974505_4075193134_1723705679.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex1/1080p60/partial_movie_files/VecField1/2788726626_3364538698_2919593148.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex1/1080p60/partial_movie_files/VecField1/2788726626_471566403_7706018.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex1/1080p60/partial_movie_files/VecField1/2788726626_121065071_2145876933.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex1/1080p60/partial_movie_files/VecField1/2788726626_2448584004_4192334970.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaex1/1080p60/partial_movie_files/VecField1/2788726626_4034477601_198794278.mp4'
