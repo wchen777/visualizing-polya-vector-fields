@@ -108,4 +108,16 @@ class PolyaInt2(VectorScene):
         paracurve = ParametricFunction(curve1, t_range=[-PI / 2, 3 * PI / 2], color=PURPLE_A, stroke_width=6)
         self.play(Create(paracurve, run_time=2))
 
-        self.wait(20)
+        self.wait(5)
+
+        div_tex = (Tex(r"div$(\mathbf{f}) > 0$")
+                     .shift(UP)
+                     .add_background_rectangle(BLACK))
+
+        self.play(Create(div_tex))
+
+        self.wait(10)
+
+        self.remove(div_tex)
+
+        self.wait(15)

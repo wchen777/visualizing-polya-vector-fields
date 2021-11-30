@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/3163782288_711187745_1723705679.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/1495979052_958132185_1425883328.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/1495979052_2432241074_3671681020.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/1495979052_1288464866_2401996085.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/1495979052_2114504515_1462726846.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/1495979052_3924902021_2385431226.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/polyaint2/480p15/partial_movie_files/PolyaInt2/1495979052_471566403_898661687.mp4'
