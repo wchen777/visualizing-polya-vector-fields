@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/450974505_778185690_1255133159.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_3702949502_728968628.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_747147036_752653803.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_3865279022_1350944632.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_993584015_3184584692.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_1858393278_2414858466.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_587277314_4102624222.mp4'
+file 'file:/Users/wchen/Documents/Projects/visualizing-polya-vector-fields/scenes/media/videos/sources2/1080p60/partial_movie_files/Sources2/2788726626_3674975549_2776115009.mp4'

@@ -47,7 +47,7 @@ class Winding2(Scene):
         self.play(Transform(t1, t4))
 
         t5 = Tex(r"\begin{align*} \oint_{C} \bar{z} dz "
-                 r"&= \text{Work}\left[ \boldsymbol{\overline{f}}, C \right] + i \cdot \text{Flux}\left[ \boldsymbol{\overline{f}}, C \right] \\ "
+                 r"&= \text{Work}\left[ \boldsymbol{z}, C \right] + i \cdot \text{Flux}\left[ \boldsymbol{z}, C \right] \\ "
                  r"&= \int\int_{R} \left[ \mathbf{\nabla} \times \mathbf{z} \right] dA +  "
                  r"i \cdot \int\int_{R} \left[ \mathbf{\nabla} \cdot \mathbf{z} \right] dA\\ "
                  r"\end{align*}",

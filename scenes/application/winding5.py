@@ -128,7 +128,9 @@ class WindingEx5(VectorScene):
 
         strength_tex = (Tex(r"'source of strength of $2 \pi$'")
                            .shift(LEFT * 1.5 + DOWN * 1.5)
+                           .scale(0.8)
                            .add_background_rectangle(BLACK, opacity=1))
+
         self.play(FadeIn(strength_tex))
         self.wait(10)
         self.play(FadeOut(strength_tex))
@@ -153,7 +155,7 @@ class WindingEx5(VectorScene):
                         .add_background_rectangle(BLACK, opacity=1))
 
         integral_tex_2 = (Tex(r"$\oint_{L} \frac{1}{z} dz ="
-                            r" 2\pi i \cdot $ (\# of winding numbers of $L$ around the origin)")
+                            r" 2\pi i \cdot $ (winding number of $L$ around the origin)")
                         .shift(LEFT * 1.5 + DOWN * 1.5)
                         .scale(0.7)
                         .add_background_rectangle(BLACK, opacity=1))
@@ -163,7 +165,22 @@ class WindingEx5(VectorScene):
         self.play(Transform(integral_tex, integral_tex_2))
         self.wait(7)
         self.play(FadeOut(integral_tex))
-        self.wait(42)
+
+        self.wait(10)
+        stream_lines = StreamLines(over_z_streamlines,
+                                       x_range=[-7, 7, 0.2], y_range=[-7, 7, 0.2],
+                                       colors=COLOR_ARRAY,
+                                       padding=1, stroke_width=2)
+
+        self.add(stream_lines)
+
+        stream_lines.start_animation(warm_up=False, flow_speed=1.5)
+
+        self.wait(12)
+
+        self.play(FadeOut(stream_lines))
+
+        self.wait(20)
 
         self.play(FadeOut(rounded_1))
 

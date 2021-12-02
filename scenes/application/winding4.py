@@ -9,7 +9,7 @@ class Winding4(Scene):
 
         self.wait(8)
 
-        t1 = Tex(r"$\oint_{L} \frac{1}{z} dz = 2\pi i \cdot $ (\# of winding numbers of $L$ around the origin)",
+        t1 = Tex(r"$\oint_{L} \frac{1}{z} dz = 2\pi i \cdot $ (the winding number of $L$ around the origin)",
                  color=GREEN_B).shift(UP * 1)
 
         t1.scale(0.85)
